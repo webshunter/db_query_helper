@@ -1,0 +1,17 @@
+{
+    "name": "gugusd999/db_query_helper",
+    "description": "quick db query",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gugusd999\\DbQueryHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "webshunternet",
+            "email": "webshunternet@gmail.com"
+        }
+    ],
+    "require": {}
+}
